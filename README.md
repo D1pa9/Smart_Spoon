@@ -2,12 +2,11 @@
 
 Smart Spoon
 
-```markdown
 # Smart Spoon: Enhancing Taste Perception Using Electric Stimulation
 
 Smart Spoon is an AI-powered research project aimed at enhancing taste perception through electric stimulation. This software-focused solution integrates computer vision, data analytics, and NLP to explore how technology can improve food experiences and assist users with dietary limitations or taste impairments.
 
-🔍 Project Overview
+##  Project Overview
 
 The system is composed of three major components:
 
@@ -77,14 +76,14 @@ streamlit run app.py
 - Understanding market trends in food technology
 - Analyzing public perception of food-tech products
 
-## 📌 Note
+## Note
 
 The project currently focuses on the software simulation and analytical components. Hardware implementation (like electric stimulation via smart utensils) is outside the scope of this version.
 
 ## Acknowledgment
 This project is being developed as part of an internship at CompSoft Technologies. Special thanks to the team for their mentorship and guidance.
 
-## 📜 License
+## License
 
 This project is for research and academic use. Please contact the company for permissions if needed.
 
