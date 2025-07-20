@@ -1,4 +1,7 @@
-
+![Smart Spoon AI Dashboard](Smart Spoon AI Dashboard.png)
+![Food Recognition Page](Food Recognition Page.png)
+![Market Research Page](Market Research Page.png)
+![SentimentAnalysis Page](SentimentAnalysis Page.png)
 
 Smart Spoon
 
@@ -89,6 +92,5 @@ This project is for research and academic use. Please contact the company for pe
 
 
 ## Developed By
-Dipa Sharma
-Harshitha V N
+DIPA SHARMA
 
