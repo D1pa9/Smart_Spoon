@@ -1,7 +1,8 @@
-![Smart Spoon AI Dashboard](Smart Spoon AI Dashboard.png)
-![Food Recognition Page](Food Recognition Page.png)
-![Market Research Page](Market Research Page.png)
-![SentimentAnalysis Page](SentimentAnalysis Page.png)
+![Smart-Spoon-AI-Dashboard](Smart-Spoon-AI-Dashboard.png)
+![Food-Recognition-Page](Food-Recognition-Page.png)
+![MarketResearch-Page](MarketResearch-Page.png)
+![SentimentAnalysis-Page](SentimentAnalysis-Page.png)
+![Opnions](Opnions.png)
 
 Smart Spoon
 
